@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>-🎓 I'm a student at Rajalakshmi Engineering College, pursuing B.E Computer Science And Engineering.<br>- 📚 I'm currently learning passionate about expanding my knowledge in Computer Science and currently diving into topics such as AI  Technologies. Always excited to explore new concepts and stay up-to-date with the latest advancements.<br><br>- ⚡ In my free time I  love to:<br>           - 💻 Work on personal coding projects<br>         - 📖 Read tech blogs and article<br>         - 🚴‍♂️ Explore the outdoors and stay active</p>
+<p align="left">I'm from TamilNadu<br><br>-🎓 I'm a student at Rajalakshmi Engineering College, pursuing B.E Computer Science And Engineering.<br>- 📚 I'm currently learning passionate about expanding my knowledge in Computer Science and currently diving into topics such as AI  Technologies. Always excited to explore new concepts and stay up-to-date with the latest advancements.<br><br>- ⚡ In my free time I  love to:<br>           - 💻 Work on personal coding projects<br>         - 📖 Read tech blogs and article<br>         - 🚴‍♂️ Explore the outdoors and stay active</p>
 
 ###
 
