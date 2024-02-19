@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DURAIGAJENDRAN29/DURAIGAJENDRAN29/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DURAIGAJENDRAN29/DURAIGAJENDRAN29/output/snake.yml" alt="Snake animation" />
 
 ###
